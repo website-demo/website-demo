@@ -1,4 +1,4 @@
-Thanks for downloading this template!
+Dibuat untuk Sentra IKM 
 
 Template Name: BizLand
 Template URL: https://bootstrapmade.com/bizland-bootstrap-business-template/
